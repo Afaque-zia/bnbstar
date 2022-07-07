@@ -2957,11 +2957,16 @@ body .modal-backdrop {
     position: relative;
     z-index: 9;
     overflow: hidden;
-    padding: 170px 0 225px;
+    padding: 140px 0 225px;
     background: url("../../images/bg/V3_Banner_BG.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+}
+@media(max-width:767px){
+    .sc_banner_v3_left{
+        text-align:center;
+    }
 }
 
 .v3_baner_content {
@@ -3458,9 +3463,9 @@ body .modal-backdrop {
 }
 
 .sc_banner_v4_right .animetion_avater {
-    -webkit-box-pack: end;
-    -ms-flex-pack: end;
-    justify-content: flex-end;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
 }
 
 .sc_banner_v3.sc_banner_v4 {
