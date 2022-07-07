@@ -2216,7 +2216,7 @@ body .modal-backdrop {
 .key_points_section {
     background: #090A1A;
     padding-top: 115px;
-    padding-bottom: 105px;
+    padding-bottom: 35px;
     position: relative;
 }
 
@@ -2725,7 +2725,7 @@ body .modal-backdrop {
 .faq_content_sect .faq_questions .accordion {
     cursor: pointer;
     background: rgba(30, 31, 53, 0.5);
-    height: 76px;
+    height: 125px;
     font-family: Russo One;
     font-style: normal;
     font-weight: normal;
@@ -3499,7 +3499,7 @@ body .modal-backdrop {
 }
 
 .home_v4_live_project_sect {
-    margin-top: 136px;
+    margin-top: 0px;
 }
 
 .home_v4_gamfi_tier_v3_sect {
