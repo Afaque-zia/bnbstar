@@ -2083,7 +2083,7 @@ body .modal-backdrop {
 
 .key_points_section .key_points_bg {
     position: absolute;
-    background: url("../../images/bg/project-bg.png");
+    /* background: url("../../images/bg/project-bg.png"); */
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
