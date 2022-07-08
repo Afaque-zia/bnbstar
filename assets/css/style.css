@@ -2963,9 +2963,10 @@ body .modal-backdrop {
     background-repeat: no-repeat;
     background-position: center;
 }
-@media(max-width:767px){
-    .sc_banner_v3_left{
-        text-align:center;
+
+@media(max-width:767px) {
+    .sc_banner_v3_left {
+        text-align: center;
     }
 }
 
@@ -4692,15 +4693,13 @@ body .gamfi-explore-content .project-item {
 }
 
 .total_rised_progress_headings p {
-    font-family: "Russo One", sans-serif;
+    /* font-family: "Russo One", sans-serif; */
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 30px;
     margin-bottom: 0px;
-    text-align: right;
     text-transform: uppercase;
-    color: #FFFFFF;
 }
 
 .total_rised_progress_bg {
