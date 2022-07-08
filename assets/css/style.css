@@ -12967,7 +12967,7 @@ div.latest-item .hover-shape-bg {
 
 .connect-wallet-btn-for-mobile .btn-text {
     color: #FFFFFF;
-    padding-left: 10px;
+    padding-left: 0px;
 }
 
 .HelpCenterBtn a {
@@ -14589,15 +14589,15 @@ div.latest-item .hover-shape-bg {
 
 .footer-icon-list i {
     color: #FFFFFF;
-    background: url("../../images/icons/icon-image.png");
-    width: 50px;
-    height: 50px;
-    line-height: 60px;
+    /* background: url("../../images/icons/icon-image.png"); */
+    width: 36px;
+    height: 35px;
+    line-height: 55px;
     display: inline-block;
-    margin: 0 2px;
+    margin: 0 3px;
     -webkit-transition: 0.4s;
     transition: 0.4s;
-    font-size: 20px;
+    font-size: 17px;
 }
 
 .footer-icon-list i:hover {
